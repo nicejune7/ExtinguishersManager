@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "679130381194",
+    "firebase_url": "https://extinguishersmanager.firebaseio.com",
+    "project_id": "extinguishersmanager",
+    "storage_bucket": "extinguishersmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679130381194:android:46994e9d10ec2981",
+        "android_client_info": {
+          "package_name": "com.sbc.sk.extinguishersmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679130381194-bb5sak9gfd7o3uiddhcmqgnrsfe6d6ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOMHxujsITV1qgPLMPCK5MuW-mZOqR1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

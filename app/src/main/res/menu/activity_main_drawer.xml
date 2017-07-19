@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_alert"
+            android:icon="@drawable/nav_btn_alert"
+            android:title="새 알림" />
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@drawable/nav_btn_list"
+            android:title="전체보기" />
+        <item
+            android:id="@+id/nav_manage_group"
+            android:icon="@drawable/nav_btn_add_group"
+            android:title="그룹 관리" />
+        <item
+            android:id="@+id/nav_group_1"
+            android:icon="@drawable/nav_btn_group"
+            android:title="그룹 1" />
+        <item
+            android:id="@+id/nav_group_2"
+            android:icon="@drawable/nav_btn_group"
+            android:title="그룹 2" />
+        <item
+            android:id="@+id/nav_group_3"
+            android:icon="@drawable/nav_btn_group"
+            android:title="그룹 3" />
+    </group>
+
+    <item android:title="예비 파티션">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="예비1" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="예비2" />
+        </menu>
+    </item>
+
+</menu>
